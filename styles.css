@@ -13,6 +13,7 @@ li{
 /*3.围绕动物的名称、图片和信息加边框*/
 /*将整个篇幅放入一个盒子中，设置*/
 .div1{
+	font-family: "楷体";
 	width: 330px;
 	margin: 0 auto;
 	border: 0.05em solid #CCC;
