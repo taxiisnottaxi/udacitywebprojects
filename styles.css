@@ -1,0 +1,56 @@
+/* 添加 CSS */
+
+/*1.加粗动物列表项*/
+span{
+	font-weight: bold;
+}
+
+/*2.动物的列表项没有点*/
+li{
+	list-style-type: none;
+}
+
+/*3.围绕动物的名称、图片和信息加边框*/
+/*将整个篇幅放入一个盒子中，设置*/
+.div1{
+	width: 330px;
+	margin: 0 auto;
+	border: 0.05em solid #CCC;
+	box-shadow: 10px 10px 5px #888888;
+}
+h2{
+	margin-left: 1em;
+	margin-top: 1em;
+	margin-bottom: 1em;
+}
+img{
+	margin-left: 1em;
+	margin-right: 1em;
+}
+.div2{
+	margin-left: 1em;
+	margin-right: 1em;
+	margin-top: 1em;
+	margin-bottom: 1em;
+	border: 0.05em solid #CCC;
+}
+.p1{
+	margin-left: 1em;
+	margin-right: 1em;
+	margin-top: 1em;
+	margin-bottom: 1em;
+	/*text-indent: 2em;*/
+}
+.p2{
+	margin-left: 1em;
+	margin-right: 1em;
+	margin-top: 1em;
+	margin-bottom: 2em;
+	/*text-indent: 2em;*/
+}
+ul{
+	margin-left: 1em;
+	margin-right: 1em;
+	padding-left: 0em;
+}
+
